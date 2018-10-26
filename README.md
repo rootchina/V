@@ -1,2 +1,2 @@
 # V
-Collections of the Vertica using skills
+Collection of the Vertica using skills
